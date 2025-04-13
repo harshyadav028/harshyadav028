@@ -70,7 +70,6 @@
 ---
 
 ### 🎟️ NFT-based Event Ticketing System
-<img align="right" width="250" src="https://via.placeholder.com/250x150/FFD700/000000?text=Event+Ticketing+System" />
 
 - **Tech Stack**: Move, Aptos Blockchain, Petra Wallet, Next.js, Smart Contracts
 - **Description**: [Decentralized ticketing system using NFTs on the Aptos blockchain. Provides secure, verifiable, and tamper-proof digital event passes.]
@@ -79,7 +78,6 @@
 <br clear="right"/>
 
 ### 🧬 UI-Nova
-<img align="right" width="250" src="https://via.placeholder.com/250x150/FFD700/000000?text=UI-Nova" />
 
 - **Tech Stack**: Next.js, Gemini API, Framer Motion, Shadcn/UI
 - **Description**: [AI-powered UI code generator that transforms natural language prompts into beautiful JSX with animations.]
@@ -88,7 +86,6 @@
 <br clear="right"/>
 
 ### 🔥 Beat the Burn Bunny
-<img align="right" width="250" src="https://via.placeholder.com/250x150/FFD700/000000?text=Beat+the+Burn+Bunny" />
 
 - **Tech Stack**: Next.js, Gemini API, AI Chat, TailwindCSS
 - **Description**: [A fun roast-battle web game where the AI bunny roasts you harder every time you fight back.]
@@ -97,7 +94,6 @@
 <br clear="right"/>
 
 ### ❄️ FrostHack 2025 Project
-<img align="right" width="250" src="https://via.placeholder.com/250x150/FFD700/000000?text=FrostHack2025" />
 
 - **Tech Stack**: Next.js, Fetch.AI Agents, Python, tRPC, Prisma, Clerk Auth
 - **Description**: [AI agent based platform to discover, evaluate, and interact with decentralized web APIs. Built during FrostHack 2025.]
