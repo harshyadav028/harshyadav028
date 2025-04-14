@@ -13,13 +13,6 @@
 - 🔭 Currently Exploring AI/ML
 - 🚀 Loves Learning new Technologies
 
-<br>
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder GIF"/>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
