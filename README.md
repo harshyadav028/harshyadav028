@@ -56,7 +56,7 @@ Hackathon-winning project built with **Next.js, Fetch.AI agents, Python, Prisma,
 * 🥉 **3rd Place** — FrostHack’25 (Fetch.AI Domain)
 * 🌐 Web Developer for **Xpecto’25 @ IIT Mandi**
 * 🔐 Core Member — **System Administration & Infosec Cell (SAIC), IIT Mandi**
-* 📈 Regular contributor to **open-source AI and blockchain ecosystems**
+* 📈 Regular contributor to **open-source contributor**
 
 ---
 
