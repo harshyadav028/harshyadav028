@@ -8,11 +8,11 @@
 
 ## 🌟 About Me
 
-I’m a **Computer Science & Engineering undergraduate at IIT Mandi (2028)** and an **Open Source Contributor** with a strong focus on **AI, ML, Web & Mobile Development**. My goal is to design intelligent, scalable, and impactful systems that bridge theory with real-world applications.
+I’m a **Computer Science & Engineering undergraduate at IIT Mandi (2028)**. My goal is to design intelligent, scalable, and impactful systems that bridge theory with real-world applications.
 
 * 🔭 Currently diving deeper into **Machine Learning, NLP, and Agentic AI**
 * 💻 Experienced in **full-stack apps, AI systems, and scalable architectures**
-* 🚀 Strong background in **open-source contributions & hackathons**
+* 🚀 Background in **open-source contributions & hackathons**
 * ⚡ Exploring **competitive programming & algorithmic problem-solving**
 
 ---
@@ -56,7 +56,6 @@ Hackathon-winning project built with **Next.js, Fetch.AI agents, Python, Prisma,
 * 🥉 **3rd Place** — FrostHack’25 (Fetch.AI Domain)
 * 🌐 Web Developer for **Xpecto’25 @ IIT Mandi**
 * 🔐 Core Member — **System Administration & Infosec Cell (SAIC), IIT Mandi**
-* 📈 Regular contributor to **open-source contributor**
 
 ---
 
